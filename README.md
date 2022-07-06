@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanmatthew
-- 👀 I’m interested in building my coding skills to not only build awesome sites but to get better at debugging things.
-- 🌱 I’m currently learning how to becoming a Front-End Web Developer with Skillcrush
+- 👀 I’m interested in building my coding skills to build awesome sites and to get better at debugging things.
+- 🌱 I’m currently studying to becoming a Front-End Web Developer with Skillcrush
 - 💞️ I’m looking to collaborate on things in the future but for now I'm just getting my feet wet.
 - 📫 How to reach me: juandevelopsinto@gmail.com
 
